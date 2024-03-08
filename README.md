@@ -20,7 +20,7 @@ Make sure you have Java installed on your system. You can download it [here](htt
 
 1. Clone the repository:
 
-   git clone https://github.com/your-username/ATM-Interface.git
+   git clone https://github.com/Elaiyabharathi-P/CODSOFT-ATM-INTERFACE.git
 
 
 2. Navigate to the project directory:
